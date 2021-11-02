@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2d13af41bc3c7f84ecad9baad69905a89e3fa302",
+  "SCAN_LINK": "https://bscscan.com/address/0x2d13af41bc3c7f84ecad9baad69905a89e3fa302",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "TEST",
+  "SYMBOL": "TNT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NONE",
+  "MARKETPLACE_LINK": "NONE",
+  "SHOW_BACKGROUND": true
+}
